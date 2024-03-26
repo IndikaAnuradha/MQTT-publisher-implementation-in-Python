@@ -18,3 +18,9 @@ Main Block: The script checks if it's being run directly (__name__ == '__main__'
 Overall, this script demonstrates a basic MQTT publisher implementation in Python using the paho.mqtt.client library. It's a simple example and can be extended or modified as needed for specific MQTT publishing requirements.
 
 ![MQTT](https://github.com/IndikaAnuradha/MQTT-publisher-implementation-in-Python/assets/122884553/8bed5399-9fb2-4934-9800-457e7eabae21)
+
+To learn more about the topic refer below links....
+
+https://public.dhe.ibm.com/software/dw/webservices/ws-mqtt/MQTT_V3.1_Protocol_Specific.pdf
+
+https://www.alvasys.ch/files/v220128200104/shop/MQTT-BROKER100_Basic_von_HiveMQ.pdf
