@@ -16,3 +16,5 @@ Function run(): This function sets the number of messages to be published (num_m
 Main Block: The script checks if it's being run directly (__name__ == '__main__') and calls the run() function to execute the MQTT publishing process.
 
 Overall, this script demonstrates a basic MQTT publisher implementation in Python using the paho.mqtt.client library. It's a simple example and can be extended or modified as needed for specific MQTT publishing requirements.
+
+![MQTT](https://github.com/IndikaAnuradha/MQTT-publisher-implementation-in-Python/assets/122884553/8bed5399-9fb2-4934-9800-457e7eabae21)
