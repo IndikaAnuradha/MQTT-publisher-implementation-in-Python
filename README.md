@@ -24,3 +24,9 @@ To learn more about the topic refer below links....
 https://public.dhe.ibm.com/software/dw/webservices/ws-mqtt/MQTT_V3.1_Protocol_Specific.pdf
 
 https://www.alvasys.ch/files/v220128200104/shop/MQTT-BROKER100_Basic_von_HiveMQ.pdf
+
+https://www.indigoo.com/dox/wsmw/1_Middleware/MQTT.pdf
+
+http://wireless.ictp.it/school_2019/slides/MQTT_v2.pdf
+
+https://www.cse.wustl.edu/~jain/cse570-15/ftp/m_14mqt.pdf
